@@ -420,5 +420,5 @@ I'm actively seeking **internship opportunities** where I can:
   
   **Thanks for visiting! Let's build something secure together.** 🔐
   
-  <p><sub>⭐️ From <a href="https://github.com/ajit-sah01">Ajit Kumar</a> | Student Developer | Security Enthusiast</sub></p>
+  <p><sub>⭐️ From <a href="https://github.com/ajitdev01">Ajit Kumar</a> | Student Developer | Security Enthusiast</sub></p>
 </div>

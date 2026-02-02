@@ -421,4 +421,9 @@ I'm actively seeking **internship opportunities** where I can:
   **Thanks for visiting! Let's build something secure together.** 🔐
   
   <p><sub>⭐️ From <a href="https://github.com/ajitdev01">Ajit Kumar</a> | Student Developer | Security Enthusiast</sub></p>
+  
+  ![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=flat-square)
+  ![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square)
+  ![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202025-blue?style=flat-square)
+  
 </div>

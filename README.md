@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=900&lines=MERN+Full-Stack+Developer;Data+Science+and+Data+Analytics+Learner;Cloud+Computing+and+Cloud+Security+Learner;Cybersecurity+and+Application+Security+Enthusiast" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajit-sah01&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ajitdev01&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Education-BCA_Cloud_%26_Security-4ECDC4?style=for-the-badge" alt="Education" />
   <img src="https://img.shields.io/badge/Experience-MERN_Stack_Projects-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Experience" />
   <img src="https://img.shields.io/badge/Learning-Cloud_%26_DevSecOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Learning" />

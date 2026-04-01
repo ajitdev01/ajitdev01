@@ -126,7 +126,7 @@ I'm a computer science student passionate about building secure, scalable web ap
 
 ## ⏰ Development Insights
 
-<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajitdev01&theme=radical&hide_border=true&utcOffset=5.5" alt="Ajit Kumar Productive Coding Hours" width="100%" /> <br/> <strong>🕐 Productive Hours (IST)</strong> </td> <td width="50%" align="center"> <img src="https://leetcard.jacoblin.cool/ajit-sah01?theme=dark&font=Nunito&ext=heatmap" alt="Ajit Kumar LeetCode Statistics" width="100%" /> <br/> <strong>🧩 LeetCode Progress (ajit-sah01)</strong> </td> </tr> </table>
+<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajitdev01&theme=radical&hide_border=true&utcOffset=5.5" alt="Ajit Kumar Productive Coding Hours" width="100%" /> <br/> <strong>🕐 Productive Hours (IST)</strong> </td> <td width="50%" align="center"> <img src="https://leetcard.jacoblin.cool/ajitdev01?theme=dark&font=Nunito&ext=heatmap" alt="Ajit Kumar LeetCode Statistics" width="100%" /> <br/> <strong>🧩 LeetCode Progress (ajit-sah01)</strong> </td> </tr> </table>
 
 ## 📈 Contribution Activity Graph
 

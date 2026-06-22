@@ -1,429 +1,516 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=AJIT%20DEV&fontSize=64&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=AJIT%20DEV&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20%7C%20DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20Security&descSize=18&descAlignY=65&descColor=4ECDC4" />
 </div>
 
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=900&lines=MERN+Full-Stack+Developer;Data+Science+and+Data+Analytics+Learner;Cloud+Computing+and+Cloud+Security+Learner;Cybersecurity+and+Application+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=950&lines=Full+Stack+Engineer+%7C+MERN+%26+Next.js;DevOps+%26+Cloud+Infrastructure+Builder;DevSecOps+%E2%80%94+Security+from+Day+One;Kubernetes+%7C+Docker+%7C+CI%2FCD+Pipelines;400%2B+LeetCode+%7C+Advanced+DSA;Build+Fast.+Build+Secure.+Build+Scalable." alt="Typing SVG" />
 </h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajitdev01&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Education-BCA_Cloud_%26_Security-4ECDC4?style=for-the-badge" alt="Education" />
-  <img src="https://img.shields.io/badge/Experience-MERN_Stack_Projects-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Learning-Cloud_%26_DevSecOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Learning" />
-  <img src="https://img.shields.io/badge/Location-Katihar,_Bihar-9B59B6?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Availability-Remote_%26_Onsite-3498DB?style=for-the-badge" alt="Availability" />
+  <img src="https://komarev.com/ghpvc/?username=ajitdev01&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/BCA-Cloud_%26_Security_2025--2028-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-400%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Location-Katihar,_Bihar_🇮🇳-9B59B6?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-```javascript
-const ajitKumar = {
-  name: "Ajit Kumar",
-  location: "Katihar, Bihar, India 🇮🇳",
-  education: "BCA - Cloud & Security (2025-2028)",
-  currentStatus: "Student | Building secure web applications",
-  
-  learning: {
-    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs", "JWT Authentication"],
-    database: ["MongoDB", "MySQL"],
-    cloudBasics: ["AWS (EC2, S3, IAM)", "Docker basics", "Git & GitHub"],
-    securityFocus: ["OWASP Top 10", "API Security", "Secure Authentication", "DevSecOps Concepts"]
-  },
-  
-  currentGoal: "Building production-ready projects with security at the core",
-  lookingFor: "Internship opportunities in Full Stack Development & Cloud Security",
-  contact: "ajitk23192@gmail.com"
+## 👨‍💻 Who Am I?
+
+```typescript
+const ajitDev = {
+  name        : "Ajit Kumar",
+  alias       : "ajitdev01",
+  location    : "Katihar, Bihar, India 🇮🇳",
+  education   : "BCA — Cloud & Security (2024–2028)",
+  portfolio   : "https://ajitdev.com",
+  institute   : "Brainzima Innovation Institute, Katihar", "https://brainzima.com",
+
+  currentFocus: [
+    "Production-grade Full Stack Engineering (MERN + Next.js)",
+    "DevSecOps — CI/CD Pipelines, Docker, Kubernetes",
+    "Cloud Infrastructure on AWS",
+    "Security-first application design (OWASP, RBAC, Zero Trust)",
+    "Advanced DSA & System Design",
+  ],
+
+  philosophy  : "Build Fast. Build Secure. Build Scalable.",
+  goal2028    : "SDE-1 | DevOps Engineer | DevSecOps | Cloud Engineer",
+  contact     : "ajitk23192@gmail.com",
 };
 ```
 
-I'm a computer science student passionate about building secure, scalable web applications. Currently developing projects using the MERN stack while learning cloud infrastructure and security best practices. My approach prioritizes security from the ground up, not as an afterthought.
+> I build production-grade applications using MERN, LAMP, Next.js, REST APIs, CI/CD pipelines, Dockerized environments, and modern cloud infrastructure. My development philosophy is simple — **security is a foundation, not an afterthought.**
 
 ---
 
-## 🎯 Current Learning Focus
+## 🎯 2027 Professional Snapshot
 
-- 🔐 Implementing OWASP Top 10 security practices in real projects
-- ☁️ Learning AWS fundamentals (EC2, S3, IAM) through hands-on labs
-- 🚀 Building full-stack applications with React, Node.js, and MongoDB
-- 🐳 Understanding containerization basics with Docker
-- 📚 Studying secure authentication patterns (JWT, OAuth concepts)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Software Engineering Core
+- Data Structures & Algorithms (400+ LeetCode)
+- Object-Oriented Programming (OOP)
+- Low Level Design (LLD) & High Level Design (HLD)
+- System Design Fundamentals
+- Design Patterns (SOLID, GOF)
+- Database Design & Query Optimization
+- API Architecture (REST, WebSocket)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ Full Stack Development
+- **Frontend:** HTML5, CSS3, JS, TS, React.js, Next.js, Tailwind, MUI
+- **Backend:** Node.js, Express.js, PHP, Laravel, REST APIs
+- **Auth:** JWT, OAuth2, RBAC, Secure Sessions
+- **Databases:** MongoDB, MySQL, PostgreSQL, Redis
+- **Tools:** Postman, Git, GitHub, VS Code, IntelliJ
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Engineering (AWS)
+- IAM, EC2, S3, VPC, Route53
+- ELB, Auto Scaling, RDS, ECR, ECS
+- CloudWatch, CloudTrail (Monitoring & Audit)
+- Terraform, AWS CLI, CloudFormation
+- Infrastructure as Code (IaC)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 DevOps Engineering
+- **Containers:** Docker, Docker Compose, Multi-stage Builds
+- **Orchestration:** Kubernetes, Helm, Ingress, ConfigMaps, Secrets
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI/CD
+- **Monitoring:** Prometheus, Grafana, Loki
+- **IaC:** Terraform, AWS CloudFormation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛡️ DevSecOps & Security Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+| Security Domain | Skills & Tools |
+|:----------------|:---------------|
+| **Secure Coding** | OWASP Top 10, Input Validation, XSS/SQLi Prevention, Secure Headers, CSP |
+| **Authentication** | JWT, OAuth2, RBAC, MFA Concepts, Session Security |
+| **API Security** | Rate Limiting, CORS, Request Validation, Error Sanitization |
+| **Container Security** | Docker Hardening, Image Scanning, Kubernetes RBAC |
+| **Secret Management** | Env Variables, Vault Concepts, GitHub Secrets |
+| **SAST / SCA Tools** | SonarQube, Snyk, Trivy, OWASP ZAP |
+| **Threat Modeling** | Security Requirements at Planning Phase, Attack Surface Analysis |
+
+</div>
+
+---
+
+## 🛠️ Full Technology Stack
+
+<div align="center">
+
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 📊 Data Structures & Algorithms
-![DSA](https://img.shields.io/badge/DSA-Practice-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-4ECDC4?style=for-the-badge&logo=codechef&logoColor=white)
-
-### 🎨 Frontend Development
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 📊 Data Science & Analytics (Learning)
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔄 CI/CD & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🔐 Security Tools
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+
+### 📊 Data Science (Learning)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ Cloud & DevOps (Learning)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🛠️ Development Tools
+### 🛠️ Dev Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🔐 Security Focus
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![API Security](https://img.shields.io/badge/API_Security-4ECDC4?style=for-the-badge&logo=security&logoColor=white)
-
-</div>
-
----
-<div align="center">
-  
-## 📊 GitHub Activity & Statistics — Ajit Kumar (ajitdev01)
-
-<table align="center" width="100%"> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitdev01&theme=radical&hide_border=true" alt="Ajit Kumar GitHub Profile Overview" width="100%" /> </td> </tr> </table>
-
-## 💻 Coding Statistics
-
-<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitdev01&theme=tokyonight" alt="Ajit Kumar GitHub Contribution Streak" width="100%" /> <br/> <strong>🔥 Contribution Streak</strong> </td> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajitdev01&theme=tokyonight&hide_border=true" alt="Ajit Kumar Most Used Programming Languages" width="100%" /> <br/> <strong>📊 Most Used Languages</strong> </td> </tr> </table>
-
-## ⏰ Development Insights
-
-<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajitdev01&theme=radical&hide_border=true&utcOffset=5.5" alt="Ajit Kumar Productive Coding Hours" width="100%" /> <br/> <strong>🕐 Productive Hours (IST)</strong> </td> <td width="50%" align="center"> <img src="https://leetcard.jacoblin.cool/ajitdev01?theme=dark&font=Nunito&ext=heatmap" alt="Ajit Kumar LeetCode Statistics" width="100%" /> <br/> <strong>🧩 LeetCode Progress (ajit-sah01)</strong> </td> </tr> </table>
-
-## 📈 Contribution Activity Graph
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitdev01&custom_title=Ajit%20Kumar%20Contribution%20Graph&bg_color=000000&color=39ff14&line=00ff41&point=39ff14&area=true&hide_border=true&area_color=00ff41" alt="Ajit Kumar GitHub Contribution Graph" width="100%" /> </p>
 </div>
 
 ---
 
-## 🎓 Learning Roadmap (2024-2028)
-
-### 📅 2024-2025: Foundation Building
-- ✅ Master MERN stack fundamentals
-- ✅ Build 5+ full-stack projects with security focus
-- 🔄 AWS Cloud Practitioner certification prep
-- 🔄 Complete Docker & containerization basics
-- 🔄 Contribute to open-source security projects
-
-### 📅 2026: Intermediate Skills
-- 📋 AWS Solutions Architect Associate prep
-- 📋 Learn Kubernetes fundamentals
-- 📋 Advanced authentication & authorization patterns
-- 📋 CI/CD pipeline implementation
-- 📋 Secure microservices architecture
-
-### 📅 2027-2028: Specialization
-- 📋 Cloud security best practices
-- 📋 DevSecOps tooling & automation
-- 📋 Threat modeling & security auditing
-- 📋 Build comprehensive portfolio projects
-- 📋 Prepare for junior security roles
-
----
-
-
-## 🚀 Project Focus Areas & Implemented Work
+## 🏗️ Production Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Security-First Development Projects
-*Projects where security is intentionally applied from day one*
+### 🛒 Cloud-Native E-Commerce Platform
+**Full production-grade microservices app**
 
-#### 🔑 Secure Authentication System
-- JWT-based login & role-based access control
-- Password hashing with bcrypt
-- Secure session handling & token refresh
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-#### 🛡️ Input Validation & Attack Prevention
-- SQL Injection prevention techniques
-- XSS attack mitigation strategies
-- Server-side validation with sanitization
-- Safe database query handling
-
-#### 🌐 API Security Practice Project
-- Rate limiting implementation
-- Request validation middleware
-- Proper HTTP status codes
-- Error message sanitization
-
-#### 🔒 CSRF & Security Headers
-- CSRF token strategy (conceptual + practical)
-- Secure headers implementation
-- CORS configuration
-- Basic CSP (Content Security Policy) concepts
-
-#### 📋 Security Best Practices
-- Environment variable management
-- Secure password storage
-- API key protection
-- HTTPS awareness
+- Microservices architecture with Docker + K8s
+- CI/CD auto-deployment via GitHub Actions
+- Redis caching layer for performance
+- Prometheus + Grafana monitoring dashboard
+- Secure JWT + RBAC authentication
+- Deployed on AWS EC2 with Auto Scaling
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Full Stack Application Projects (MERN)
-*End-to-end applications built as learning + portfolio projects*
+### 🔐 DevSecOps CI/CD Pipeline
+**End-to-end secure deployment pipeline**
 
-#### 🛒 E-Commerce Web Application
-- Product listings with search & filters
-- Shopping cart functionality
-- User authentication & authorization
-- Secure payment flow (conceptual)
-- RESTful API with MongoDB
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
 
-#### ✅ Task Management System
-- CRUD operations with authentication
-- Task categories & priority levels
-- Clean, responsive UI with React
-- Express.js backend with REST APIs
+- SAST scanning with SonarQube
+- Container image scanning with Trivy
+- Infrastructure provisioning via Terraform
+- Kubernetes deployment with Helm charts
+- Secrets managed securely (no hardcoded creds)
+- Full audit trail with CloudTrail + CloudWatch
 
-#### 💬 Real-Time Chat Application
-- WebSocket/Socket.io messaging
-- User authentication & profiles
-- Real-time message delivery
-- Chat rooms & private messaging
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-#### 👥 User Management Dashboard
-- Admin & user role separation
-- User CRUD operations
-- Authentication & authorization
-- Secure RESTful backend
-- MongoDB database integration
+### ✅ Task Management System
+**Full-stack MERN app with security focus**
 
-#### 📱 Responsive Web Applications
-- Mobile-first design approach
-- Tailwind CSS & Bootstrap styling
-- Cross-browser compatibility
-- Performance optimization basics
-- Accessibility awareness (ARIA, semantic HTML)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- CRUD with role-based access control
+- JWT authentication with token refresh
+- Input sanitization (XSS / injection prevention)
+- RESTful API with rate limiting
+- Clean responsive UI with Tailwind CSS
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Chat Application
+**WebSocket-based messaging platform**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+- Real-time bidirectional messaging
+- Private rooms & group channels
+- Authenticated connections (JWT via WebSocket)
+- Message persistence with MongoDB
+- Online/offline presence tracking
 
 </td>
 </tr>
 </table>
 
----
+### 📂 Repository Structure
 
-### 📂 Project Repository Structure
 ```
-📦 Portfolio Projects
-├── 🔐 security-focused/
+📦 ajitdev01/
+│
+├── 🏗️  production/
+│   ├── ecommerce-cloud-native/      ← Next.js + K8s + AWS
+│   └── devsecops-pipeline/          ← GH Actions + Trivy + Terraform
+│
+├── 🌐  full-stack/
+│   ├── task-manager-mern/
+│   ├── realtime-chat/
+│   ├── user-dashboard/
+│   └── nextjs-ad/                   ← Next.js learning repo
+│
+├── 🔐  security/
 │   ├── secure-auth-system/
 │   ├── input-validation-demo/
 │   ├── api-security-practice/
-│   └── security-headers-impl/
+│   └── owasp-top10-labs/
 │
-├── 🌐 full-stack-mern/
-│   ├── ecommerce-platform/
-│   ├── task-manager/
-│   ├── realtime-chat/
-│   └── user-dashboard/
+├── ☁️   cloud-devops/
+│   ├── terraform-aws-infra/
+│   ├── kubernetes-manifests/
+│   └── docker-compose-stacks/
 │
-├── 🎨 frontend-practice/
-│   ├── responsive-layouts/
-│   ├── react-components/
-│   └── ui-animations/
-│
-└── 📚 learning-projects/
-    ├── dsa-implementations/
-    ├── api-integrations/
-    └── database-practice/
+└── 📚  learning/
+    ├── dsa-leetcode/                 ← 400+ problems
+    ├── system-design-notes/
+    └── data-science-notebooks/
 ```
 
 ---
 
-### 🎯 Project Development Approach
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| Phase | Focus | Tools & Practices |
-|:------|:------|:------------------|
-| **Planning** | Requirements & Design | Wireframing, User Stories, Security Requirements |
-| **Development** | Security-First Coding | Git Version Control, Clean Code, Input Validation |
-| **Testing** | Manual & Basic Automated | Postman API Testing, Console Debugging, User Testing |
-| **Deployment** | Hosting & Monitoring | GitHub Pages, Vercel, Basic Error Logging |
-| **Documentation** | Clear README & Comments | Markdown, Code Comments, Setup Instructions |
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitdev01&theme=radical&hide_border=true" width="100%" alt="Profile Overview" />
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitdev01&theme=tokyonight&hide_border=true" width="100%" alt="Streak" />
+  <br/><strong>🔥 Contribution Streak</strong>
+</td>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajitdev01&theme=tokyonight&hide_border=true" width="100%" alt="Languages" />
+  <br/><strong>📊 Most Used Languages</strong>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajitdev01&theme=radical&hide_border=true&utcOffset=5.5" width="100%" alt="Productive Hours" />
+  <br/><strong>🕐 Productive Hours (IST)</strong>
+</td>
+<td width="50%" align="center">
+  <img src="https://leetcard.jacoblin.cool/ajitdev01?theme=dark&font=Nunito&ext=heatmap" width="100%" alt="LeetCode" />
+  <br/><strong>🧩 LeetCode — 400+ Problems Solved</strong>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitdev01&custom_title=Ajit%20Dev%20%E2%80%94%20Contribution%20Graph&bg_color=000000&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&hide_border=true&area_color=4ECDC4" width="100%" alt="Contribution Graph" />
+</p>
 
 </div>
 
 ---
 
-### 💡 Key Learning Outcomes
+## 🗺️ Learning Roadmap (2024–2028)
+
+```
+2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2028
+│                                                                           │
+├─ [✅] MERN Stack Mastery              ├─ [📋] Kubernetes Advanced (2026)  │
+├─ [✅] Security-First Development      ├─ [📋] AWS Solutions Architect     │
+├─ [✅] Git, Linux, Docker Basics       ├─ [📋] Microservices at Scale      │
+├─ [✅] JWT, RBAC, OAuth2               ├─ [📋] Open-Source Contributions   │
+│                                       │                                   │
+├─ [🔄] AWS Cloud Practitioner (2025)  ├─ [📋] Threat Modeling (2027)      │
+├─ [🔄] CI/CD with GitHub Actions      ├─ [📋] Security Auditing           │
+├─ [🔄] Terraform & IaC                ├─ [📋] Capstone Project + Audit    │
+├─ [🔄] Next.js App Router Mastery     ├─ [📋] SDE-1 / DevOps Role (2028) │
+│                                                                           │
+└───────────────────────────── ⚡ Code. Deploy. Secure. Scale. ────────────┘
+```
+
+| Phase | Year | Focus | Status |
+|:------|:-----|:------|:-------|
+| **Foundation** | 2024–2025 | MERN, Security Basics, Docker, Git | ✅ Done |
+| **Cloud & DevOps** | 2025–2026 | AWS, Terraform, K8s, CI/CD, Monitoring | 🔄 In Progress |
+| **Specialization** | 2026–2027 | DevSecOps, Threat Modeling, Microservices | 📋 Planned |
+| **Career Launch** | 2027–2028 | Production Projects, Portfolio, Job Search | 📋 Planned |
+
+---
+
+## 🧩 Problem Solving — DSA Mastery
+
+<div align="center">
+
+| Category | Topics Covered | Level |
+|:---------|:---------------|:------|
+| **Arrays & Strings** | Sliding Window, Two Pointers, Kadane's | ⭐⭐⭐⭐⭐ |
+| **Linked Lists** | Reversal, Cycles, Merge | ⭐⭐⭐⭐⭐ |
+| **Trees & BST** | DFS, BFS, LCA, Diameter | ⭐⭐⭐⭐⭐ |
+| **Graphs** | BFS, DFS, Dijkstra, Topological Sort | ⭐⭐⭐⭐☆ |
+| **Dynamic Programming** | Memoization, Tabulation, Knapsack | ⭐⭐⭐⭐☆ |
+| **Greedy Algorithms** | Intervals, Scheduling, Huffman | ⭐⭐⭐⭐☆ |
+| **Binary Search** | Rotated Arrays, Search Space Reduction | ⭐⭐⭐⭐⭐ |
+| **Heaps & Priority Queues** | K-largest, Merge, Median Stream | ⭐⭐⭐☆☆ |
+| **Backtracking** | Permutations, N-Queens, Subsets | ⭐⭐⭐☆☆ |
+
+> 🏆 **400+ LeetCode problems solved** · Growing daily
+
+</div>
+
+---
+
+## 🎓 Education & Institute
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**🔒 Security Mindset**
+**🎓 Bachelor of Computer Applications**
+Specialization: Cloud & Security
+**Duration:** 2024 – 2028
+**Status:** 🟢 Currently Enrolled
 
-Understanding threats before building features
-
-Implementing OWASP Top 10 awareness
-
-Testing for common vulnerabilities
-
-</td>
-<td width="33%" align="center">
-
-**🛠️ Full Stack Skills**
-
-Building complete MERN applications
-
-RESTful API design & implementation
-
-Database schema design
-
-Frontend-backend integration
+Areas of Study:
+- Cloud Computing & Security
+- Software Engineering
+- Data Structures & Algorithms
+- Database Management Systems
+- Network Security & Cryptography
+- Operating Systems (Linux)
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**📈 Best Practices**
+**🏫 [Brainzima Innovation Institute](https://www.brainzima.com)**
+Anathalaya Road, Katihar, Bihar — 854105
 
-Version control with Git
+- 🏅 ISO Certified Computer & Coding Institute
+- 👨‍🎓 1200+ Students Trained
+- ⭐ 5.0/5 Google Rating
+- 💼 100% Placement Assistance
+- 🧑‍💻 Courses: Web Dev, Python, ADCA, DCA
+- 📞 +91-7979864304
 
-Clean, readable code
-
-Proper error handling
-
-Environment configuration
+*Proud to be trained at Katihar's #1 tech institute.*
 
 </td>
 </tr>
 </table>
 
----
-
-### 🚧 Currently Building
-
-- 📊 **Personal Portfolio Website** (Next.js + Tailwind CSS)
-- 🔐 **OAuth 2.0 Integration Demo** (Learning third-party authentication)
-- ☁️ **AWS Deployment Practice** (Deploying MERN app on EC2)
-- 🐳 **Docker Containerization** (Containerizing Node.js applications)
-
----
-
-### 🎓 Project-Based Learning Goals
-```javascript
-const projectGoals = {
-  immediate: [
-    "Complete 5 security-focused projects by Q2 2025",
-    "Deploy 3 MERN stack apps with secure authentication",
-    "Document all projects with detailed README files",
-    "Implement CI/CD pipeline for one major project"
-  ],
-  
-  upcoming: [
-    "Build microservices architecture project (2025-2026)",
-    "Create open-source security tool contribution (2026)",
-    "Develop cloud-native application on AWS (2026-2027)",
-    "Complete capstone project with security audit (2027-2028)"
-  ],
-  
-  skills: {
-    technical: "Security patterns, API design, Database optimization",
-    soft: "Documentation, Code reviews, Collaborative development"
-  }
-};
-```
-
----
 ---
 
 ## 💼 Open for Opportunities
 
-I'm actively seeking **internship opportunities** where I can:
+<div align="center">
 
-- 🎯 Apply security-first development practices in real-world projects
-- 💻 Work with modern web technologies (MERN stack, Next.js)
-- ☁️ Learn cloud infrastructure and DevOps workflows
-- 🤝 Collaborate with experienced developers and security professionals
-- 📈 Contribute to production codebases with guidance
+I'm actively seeking roles where I can apply and grow as:
 
-**Looking for**: Full Stack Development Internships | Cloud Security Internships | DevSecOps Training Roles
+| Role | Skills I Bring |
+|:-----|:---------------|
+| **SDE-1 / Software Engineer** | MERN, Next.js, TypeScript, System Design, DSA |
+| **DevOps Engineer** | Docker, K8s, Terraform, CI/CD, AWS, Monitoring |
+| **DevSecOps Engineer** | OWASP, SonarQube, Trivy, Secure Pipelines |
+| **Cloud Engineer** | AWS (EC2, S3, IAM, VPC, ECS), IaC, Auto Scaling |
+
+**Format:** Remote · Hybrid · Onsite &nbsp;|&nbsp; **Type:** Full-time · Internship
+
+</div>
 
 ---
+
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://ajitdev.com">
+    <img src="https://img.shields.io/badge/Portfolio-ajitdev.com-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:ajitk23192@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ajitk23192@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ajitk23192@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ajitdev01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/ajitdev01">
+    <img src="https://img.shields.io/badge/LinkedIn-ajitdev01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ajitdev01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/ajitdev01">
+    <img src="https://img.shields.io/badge/GitHub-ajitdev01-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ajitdev01/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://twitter.com/ajitdev01">
+    <img src="https://img.shields.io/badge/Twitter-@ajitdev01-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/ajitdev01" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://instagram.com/ajitdev01">
+    <img src="https://img.shields.io/badge/Instagram-ajitdev01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  
-### 💭 Security Philosophy
 
-> *"Security isn't a feature to be added later—it's a foundation to build upon from day one."*
+### ⚡ Philosophy
+
+> *"Security isn't a feature to be added later — it's the foundation everything is built upon."*
+
+### 🏁 Motto
+
+```
+Code. Deploy. Secure. Scale. Repeat.
+```
+
+*Building systems that survive real-world traffic, failures, and attacks.*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
-  
-  **Thanks for visiting! Let's build something secure together.** 🔐
-  
-  <p><sub>⭐️ From <a href="https://github.com/ajitdev01">Ajit Kumar</a> | Student Developer | Security Enthusiast</sub></p>
-  
-  ![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=flat-square)
-  ![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square)
-  ![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202025-blue?style=flat-square)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+
+  **Thanks for visiting — Let's build something secure together.** 🔐
+
+  <sub>⭐ From <a href="https://github.com/ajitdev01">Ajit Kumar</a> · Student Developer · Security Enthusiast · Katihar, Bihar 🇮🇳</sub>
+
+  <br/>
+
+  ![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20❤️%20in-India-FF9933?style=flat-square)
+  ![Maintained](https://img.shields.io/badge/Maintained-Yes-4ECDC4?style=flat-square)
+  ![Last Updated](https://img.shields.io/badge/Updated-June%202026-9B59B6?style=flat-square)
+
 </div>

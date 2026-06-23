@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajitdev01&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/BCA-Cloud_%26_Security_2025--2028-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BCA-Cloud_%26_Security_2025--2027-4ECDC4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LeetCode-400%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/Location-Katihar,_Bihar_🇮🇳-9B59B6?style=for-the-badge" />
 </p>
@@ -22,7 +22,7 @@ const ajitDev = {
   name        : "Ajit Kumar",
   alias       : "ajitdev01",
   location    : "Katihar, Bihar, India 🇮🇳",
-  education   : "BCA — Cloud & Security (2024–2028)",
+  education   : "BCA — Cloud & Security (2025–2027)",
   portfolio   : "https://ajitdev.com",
   institute   : "Brainzima Innovation Institute, Katihar", "https://brainzima.com",
 

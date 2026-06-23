@@ -461,24 +461,26 @@ I'm actively seeking roles where I can apply and grow as:
 
 <p align="center">
   <a href="https://ajitdev.com">
-    <img src="https://img.shields.io/badge/Portfolio-ajitdev.com-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/AJIT_DEV-Portfolio-black?style=for-the-badge&logo=vercel">
   </a>
+
+  <a href="mailto:support@ajitdev.com">
+    <img src="https://img.shields.io/badge/Business-Contact-success?style=for-the-badge&logo=gmail">
+  </a>
+
   <a href="mailto:ajitk23192@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ajitk23192@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Personal-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/ajitdev01">
-    <img src="https://img.shields.io/badge/LinkedIn-ajitdev01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
   <a href="https://github.com/ajitdev01">
-    <img src="https://img.shields.io/badge/GitHub-ajitdev01-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-ajitdev01-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://twitter.com/ajitdev01">
-    <img src="https://img.shields.io/badge/Twitter-@ajitdev01-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ajitdev01">
-    <img src="https://img.shields.io/badge/Instagram-ajitdev01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://linkedin.com/in/ajitdev01">
+    <img src="https://img.shields.io/badge/LinkedIn-ajitdev01-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+
 
 ---
 

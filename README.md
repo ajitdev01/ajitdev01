@@ -406,7 +406,7 @@ const ajitDev = {
 
 **🎓 Bachelor of Computer Applications**
 Specialization: Cloud & Security
-**Duration:** 2024 – 2028
+**Duration:** 2025 – 2027
 **Status:** 🟢 Currently Enrolled
 
 Areas of Study:

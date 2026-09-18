@@ -498,7 +498,11 @@ My practical exposure comes from interacting with a broader education + technolo
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitdev01&custom_title=Ajit%20Dev%20%E2%80%94%20Contribution%20Graph&bg_color=000000&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&hide_border=true&area_color=4ECDC4" width="100%" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ajitdev01&bg_color=0d1117&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&hide_border=true&custom_title=Ajit%20Dev%20%E2%80%94%20Contribution%20Graph"
+    width="100%"
+    alt="Ajit Dev GitHub Contribution Graph"
+  />
 </p>
 
 </div>

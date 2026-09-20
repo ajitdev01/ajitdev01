@@ -497,13 +497,26 @@ My practical exposure comes from interacting with a broader education + technolo
 </tr>
 </table>
 
+<h2 align="center">💚 GitHub Contribution Activity</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ajitdev01&bg_color=0d1117&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&hide_border=true&custom_title=Ajit%20Dev%20%E2%80%94%20Contribution%20Graph"
+    src="https://ghchart.rshah.org/2ea043/ajitdev01"
+    alt="Ajit Dev GitHub Contribution Activity"
     width="100%"
-    alt="Ajit Dev GitHub Contribution Graph"
   />
 </p>
+
+<p align="center">
+  <strong>Consistency • Contribution • Growth</strong>
+</p>
+
+<p align="center">
+  <i>Building every day. Learning every day. Growing every day.</i>
+</p>
+
+
+
 
 </div>
 
@@ -765,7 +778,7 @@ Code. Deploy. Secure. Scale. Repeat.
 
   **Thanks for visiting — Let's build something secure together.** 🔐
 
-  <sub>⭐ From <a href="https://github.com/ajitdev01">Ajit Kumar</a> · Student Developer · Security Enthusiast · Katihar, Bihar 🇮🇳</sub>
+  <sub>⭐ From <a href="https://ajitdev.com">Ajit Kumar</a> · Student Developer · Security Enthusiast · Katihar, Bihar 🇮🇳</sub>
 
   <br/>
 

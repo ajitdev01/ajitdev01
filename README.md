@@ -279,7 +279,7 @@ const ajitDev = {
 │   └── docker-compose-stacks/
 │
 └── 📚  learning/
-    ├── dsa-leetcode/                 ← 400+ problems
+    ├── dsa-leetcode/                 ← 500+ problems
     ├── system-design-notes/
     └── data-science-notebooks/
 ```

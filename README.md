@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=AJIT%20DEV&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Cloud%20Security&descSize=18&descAlignY=65&descColor=4ECDC4" />
 </div>
-
+ ggfd
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=950&lines=Full+Stack+Engineer+%7C+MERN+%26+Next.js;DevOps+%26+Cloud+Infrastructure+Builder;DevSecOps+%E2%80%94+Security+from+Day+One;Kubernetes+%7C+Docker+%7C+CI%2FCD+Pipelines;400%2B+LeetCode+%7C+Advanced+DSA;Build+Fast.+Build+Secure.+Build+Scalable." alt="Typing SVG" />
 </h1>
